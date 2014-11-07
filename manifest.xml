@@ -1,0 +1,21 @@
+<package>
+  <description brief="motion_detect">
+
+     motion_detect
+
+  </description>
+  <author>BL-Rescue</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/motion_detect</url>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="sensor_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="std_msgs"/>
+  <depend package="zbar"/>
+
+</package>
+
+
